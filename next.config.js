@@ -14,7 +14,7 @@ module.exports = {
   assetPrefix: assetPrefix,
   basePath: basePath,
   images: {
-    loader: 'akamai',
-    path: '',
+    loader: 'imgix',
+    path: 'reactnextcruddata.imgix.net',
   },
 }
